@@ -1,5 +1,5 @@
 # Best-classifier
-best classifier project
+Best classifier project
 Now we use different Machine Learning algorithms over the course of five weeks to practice and apply it on a dataset. In this project, we will complete a notebook where we will build a classifier to predict whether a loan case will be paid off or not.
 
 we load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. we are expected to use the following algorithms to build our models:
